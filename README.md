@@ -8,3 +8,7 @@ teste do push com repositorio atrasado
 Este é o arquivo readme.md alterado na aula de ICO no dia 30/11
 
 >>>>>>> origin/main
+
+
+
+teste
